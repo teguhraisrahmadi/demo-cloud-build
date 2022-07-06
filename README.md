@@ -1,3 +1,3 @@
-Work Instruction to use cloud build
+- Work Instruction to use cloud build
 
-This repository have source code for testing cloud build on GCP
+- This repository have source code for testing cloud build on GCP
